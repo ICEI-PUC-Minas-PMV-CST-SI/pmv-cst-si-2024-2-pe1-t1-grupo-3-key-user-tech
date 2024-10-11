@@ -3,22 +3,21 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Fundamentos de Sistema`
 
-`Eixo: 5`
+`Eixo: 2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Thiago Rodrigues de oliveira Paixão
+* Leonardo Souza Percidio 
+* Laécio Almeida Dos Santos
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Ivo Alexandre de Oliveira
 
 
